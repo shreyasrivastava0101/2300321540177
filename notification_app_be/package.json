@@ -1,0 +1,13 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Minimal backend for Notification System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}

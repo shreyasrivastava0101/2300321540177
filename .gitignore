@@ -1,6 +1,5 @@
 node_modules/
 .env
-build/
 dist/
+build/
 .DS_Store
-.vscode/
